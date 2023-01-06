@@ -15,6 +15,6 @@ public static double getWordCount(String review){
    	 return count;
     }
     public static void main(String[] args) {
-   	 SpringApplication.run(ReviewAnalyserApplication.class, args);
+   	 SpringApplication.run(ReviewanalyserApplication.class, args);
     }
 }
